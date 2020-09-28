@@ -16,8 +16,9 @@ Very Simple Linear Equation Solver w/ GUI
 
 2. ```cd EquationSolver```
 
-3. ```python run.py```
+3. ```python -m pip install -r requirements.txt```
 
+4. ```python run.py```
 
 
 
