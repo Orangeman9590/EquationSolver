@@ -2,6 +2,8 @@
 # EquationSolver
 
 Very Simple Linear Equation Solver w/ GUI
+
+
 ![image](https://user-images.githubusercontent.com/61301004/94467245-a0d27e80-0190-11eb-8055-28422646dd72.png)
 
 
